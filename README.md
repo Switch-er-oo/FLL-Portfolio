@@ -7,4 +7,4 @@ The "Frame_blank" files are attachments frames that have no additional tools att
 
 The "Youtube" file lists some information about and a playlist for all my YouTube videos (unlisted).
 
-Although it is recommended to use Mac Os' Previewer to view files (for some reason, typical CAD software has trouble properly rendering files and renders components as partially transparent), files can be viewed on Autodesk Viewer and Fusion360. Digital links to all models as shareable Fusion360 models are included in the "Fusion360 links" file.
+Although it is recommended to use MacOS' Previewer to view files (for some reason typical CAD software has trouble properly rendering files and renders components as partially transparent or without color), files can be viewed on Autodesk Viewer and Fusion360. Digital links to all models as shareable Fusion360 models are included in the "Fusion360 links" file.
