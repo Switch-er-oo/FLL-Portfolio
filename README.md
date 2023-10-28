@@ -6,3 +6,5 @@ To reiterate my portfolio, Oryct3s is my most recent design and a stronger desig
 The "Frame_blank" files are attachments frames that have no additional tools attached to them (such as the belt, claw and probe that I added to my Oryct3s frames)
 
 The "Youtube" file lists some information about and a playlist for all my YouTube videos (unlisted).
+
+Although it is recommended to use Mac Os' Previewer to view files (for some reason, typical CAD software has trouble properly rendering files and renders components as partially transparent), files can be viewed on Autodesk Viewer and Fusion360. Digital links to all models as shareable Fusion360 models are included in the "Fusion360 links" file.
