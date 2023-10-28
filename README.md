@@ -5,7 +5,7 @@ This portfolio contains two designs, and initial design called Cicind3la and my 
 
 Digital links to all models as shareable Fusion360 models are included in the "Fusion360 links" file and all other files are downloadable from this page.
 
-Please note that a variable called "winding order" that is used when creating COLLADA files can be used to optimize files when rendered by certain CAD softwares. The files that are linked as shareable Fusion360 models are all optimized for autodesk applications, and use the clockwise winding order. Files that are more suitable for Previewer, Xcode and Blender use the anti-clockwise order. The "C" or "A" at the beginning of the file names on my github repository indicate whether such files are clockwise or anti-clockwise. Why winding order has this effect is unknown to me.
+Please note that a variable called "winding order" that is used when creating COLLADA files can be used to optimize files when rendered by certain CAD softwares. The files that are linked as shareable Fusion360 models are all optimized for autodesk applications, and use the clockwise winding order. Files that are more suitable for Previewer, Xcode and Blender use the anti-clockwise order. The "C" or "A" at the beginning of the file names on my github repository indicate whether such files are clockwise or anti-clockwise. Why winding order has this effect is largely unknown to me.
 
 The "Frame_blank" files are attachments frames that have no additional tools attached to them (such as the belt, claw and probe that I added to my Oryct3s frames)
 
